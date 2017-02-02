@@ -1,1 +1,7 @@
-Hello, this is my text file that I am using to test with Git!
+
+Hello, this is my text file that I am using to test with Git! 
+I added this line after adding, but before committing
+
+I added this line in visual studio code, after mucking around in Git Bash
+
+I added this line before staging and without saving
